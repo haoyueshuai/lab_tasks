@@ -10,3 +10,4 @@
 | Austin Tao   | alt2177 |
 | Olivia Zhang | evilo |
 | Weiyi Jiang | weiyi-jiang |
+| Joshua Zhou | jz3311 |
